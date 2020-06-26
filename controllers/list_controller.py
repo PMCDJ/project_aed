@@ -27,6 +27,7 @@ class ListController:
         profissional = Profissional(nome_profissional) 
         profissionais.insert(nome_profissional,profissional)
     
+    
     def has_faixa(self, faixa_etaria):
         pass
 
